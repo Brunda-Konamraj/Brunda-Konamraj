@@ -1,4 +1,4 @@
-#Student Details#
+# Student Details #
 
 * Name: Konamraj Brunda
 * Reg. No: 2511021060639
